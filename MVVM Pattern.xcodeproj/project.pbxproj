@@ -23,6 +23,7 @@
 		FF4EBE5C2A76937A003ED16E /* MovieEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4EBE5B2A76937A003ED16E /* MovieEndPoint.swift */; };
 		FF4EBE602A7695D0003ED16E /* MovieListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4EBE5E2A7695D0003ED16E /* MovieListTableViewCell.swift */; };
 		FF4EBE612A7695D0003ED16E /* MovieListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF4EBE5F2A7695D0003ED16E /* MovieListTableViewCell.xib */; };
+		FFABDD1C2A76DC57009B00B6 /* DependencyContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFABDD1B2A76DC57009B00B6 /* DependencyContainer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		FF4EBE5B2A76937A003ED16E /* MovieEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieEndPoint.swift; sourceTree = "<group>"; };
 		FF4EBE5E2A7695D0003ED16E /* MovieListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieListTableViewCell.swift; sourceTree = "<group>"; };
 		FF4EBE5F2A7695D0003ED16E /* MovieListTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MovieListTableViewCell.xib; sourceTree = "<group>"; };
+		FFABDD1B2A76DC57009B00B6 /* DependencyContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyContainer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				FF4EBE572A76932C003ED16E /* NetworkManager.swift */,
+				FFABDD1B2A76DC57009B00B6 /* DependencyContainer.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				FF4EBE4D2A7687A1003ED16E /* MovieListViewController.swift in Sources */,
 				FF4EBE5A2A769348003ED16E /* APIEndpoints.swift in Sources */,
 				FF4EBE582A76932C003ED16E /* NetworkManager.swift in Sources */,
+				FFABDD1C2A76DC57009B00B6 /* DependencyContainer.swift in Sources */,
 				FF4EBE2D2A7681ED003ED16E /* AppDelegate.swift in Sources */,
 				FF4EBE2F2A7681ED003ED16E /* SceneDelegate.swift in Sources */,
 				FF4EBE532A768CE4003ED16E /* LaunchScreenViewController.swift in Sources */,

@@ -73,6 +73,7 @@ enum OriginalLanguage: String, Codable {
     case ja = "ja"
     case pl = "pl"
     case uk = "uk"
+    case es = "es"
 }
 
 extension MovieModel {

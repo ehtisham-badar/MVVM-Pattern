@@ -3,4 +3,54 @@
    uuid = "783C0844-92CE-44B8-B7A3-B54EAAEBB139"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7998B3EE-8C5E-4E02-96CF-939144216489"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM Pattern/Views/Movie List/MovieListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "updateSnapshot()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7998B3EE-8C5E-4E02-96CF-939144216489 - c8fc4dc1816f70b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM_Pattern.MovieListViewController.updateSnapshot() -&gt; ()"
+                  moduleName = "MVVM Pattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ehtishambadar/Documents/Ehtisham%20Badar%20-%20Personal%20Data/MVVM%20Pattern/MVVM-Pattern/MVVM%20Pattern/Views/Movie%20List/MovieListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "543">
+               </Location>
+               <Location
+                  uuid = "7998B3EE-8C5E-4E02-96CF-939144216489 - 1d5eca49683381c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MVVM_Pattern.MovieListViewController.updateSnapshot() -&gt; ()"
+                  moduleName = "MVVM Pattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ehtishambadar/Documents/Ehtisham%20Badar%20-%20Personal%20Data/MVVM%20Pattern/MVVM-Pattern/MVVM%20Pattern/Views/Movie%20List/MovieListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

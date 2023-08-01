@@ -22,8 +22,7 @@ class MovieListViewController: UIViewController {
     }
     
     private func setupViewModel() {
-        let networkManager = NetworkManager()
-        viewModel = MovieViewModel(networkManager: networkManager)
+        viewModel = DependencyContainer.makeMovieViewModel()
         
         viewModel.$movies
             .sink { [weak self] _ in
